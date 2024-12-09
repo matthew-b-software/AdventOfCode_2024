@@ -4,7 +4,7 @@ import re
 left_list = []
 right_list = []
 
-with open("input.txt") as input:
+with open("input_1.txt") as input:
     for lines in input:
         values = re.findall("\d+",lines)
         left_list.append(int(values[0]))
