@@ -1,3 +1,5 @@
-# Advent of Code 2024 Day 1
+# Advent of Code 2024
 
-Like: [advent of code 2024 day 1](https://adventofcode.com/2024/day/1)
+My solutions to advent of code 2024  
+
+Link: [advent of code 2024](https://adventofcode.com/2024/)
